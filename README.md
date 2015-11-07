@@ -9,6 +9,6 @@
 
 # Todo
 
- -[] WIP - The Art of Explanation by Lee LeFever
- -[] WIP - The Innovator's DNA by Jeff Dyer, Hal Gregersen and Clayton Christensen
- -[ ] WIP - Venture Deals by Brad Feld, Jason Mendelson  
+ - [ ] WIP - The Art of Explanation by Lee LeFever
+ - [ ] WIP - The Innovator's DNA by Jeff Dyer, Hal Gregersen and Clayton Christensen
+ - [ ] WIP - Venture Deals by Brad Feld, Jason Mendelson  
